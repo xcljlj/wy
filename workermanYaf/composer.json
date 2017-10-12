@@ -1,0 +1,6 @@
+{
+    "autoload": {
+        "psr-4": {"App\\": "/"},
+        "psr-4": {"Workerman\\": "vendor/Workerman/"}
+    }
+}
